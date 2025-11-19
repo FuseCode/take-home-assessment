@@ -18,3 +18,5 @@ All take-home assessment for the roles at FuseCode.
 - [Android (Senior-Level)](./jobs/android-developer-senior-level.md)
 - [Angular (Mid-Level)](./jobs/angular-developer-mid-level.md)
 - [Angular (Senior-Level)](./jobs/angular-developer-senior-level.md)
+- [Software Engineer (Mid-Level)](./jobs/software-engineer-mid-level.md)
+- [Software Engineer (Senior-Level)](./jobs/software-engineer-senior-level.md)
